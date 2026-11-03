@@ -1,6 +1,6 @@
 # Skills
 
-个人自建 AI skill 集合，逐步收录、维护和迭代。当前 GitHub 仓库设为私有。
+个人自建 AI skill 集合，逐步收录、维护和迭代。GitHub 仓库公开可见。
 
 ## Skill 索引
 
@@ -49,4 +49,4 @@ ln -s "$PWD/skills/elephant-in-the-room" "$HOME/.codex/skills/elephant-in-the-ro
 
 ## 许可
 
-暂未指定开源许可证；公开发布或向他人授权使用前另行确定。
+暂未指定开源许可证；公开可见不代表已授予开源使用许可，向他人授权使用前另行确定。
