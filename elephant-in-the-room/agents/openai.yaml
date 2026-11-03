@@ -1,0 +1,4 @@
+interface:
+  display_name: "房间里的大象"
+  short_description: "通过对话发现被忽略的重要问题，检验证据与其他解释，选择合适的下一步。"
+  default_prompt: "使用 $elephant-in-the-room，帮我识别当前处境里可能被忽略的重要问题，先让我选择对话入口。"
